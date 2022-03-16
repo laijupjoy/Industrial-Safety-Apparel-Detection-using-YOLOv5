@@ -34,5 +34,5 @@ python app.py
 
 ## Bug / Feature Request
 
-If you find a bug (the website couldn't handle the query and / or gave undesired results), kindly open an [issue](https://github.com/laijupjoy/Industrial-Safety-Apparel-Detection-using-YOLOv5.git/issues) here by including your search query and the expected result
+If you find a bug (the website couldn't handle the query and / or gave undesired results), kindly open an [issue](https://github.com/laijupjoy/Industrial-Safety-Apparel-Detection-using-YOLOv5/issues) here by including your search query and the expected result
 
