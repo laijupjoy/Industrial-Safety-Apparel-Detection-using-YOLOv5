@@ -17,7 +17,7 @@ A glimpse of the web app:
 
 The Industrial Safety Apparel Detection is a flask web application developed with Yolo v5 which detects 'Safety vest', 'hat', 'goggles', 'glove', 'shoe'.
 
-To install the required packages and libraries, run this command in the project directory after [cloning](https://github.com/laijupjoy/Industrial-Safety-Apparel-Detection-using-YOLOv5.git) the repository:
+To install the required packages and libraries, run this command in the project directory after [cloning](https://github.com/laijupjoy/Industrial-Safety-Apparel-Detection-using-YOLOv5) the repository:
 ```bash
 pip install -r requirements.txt
 ```
